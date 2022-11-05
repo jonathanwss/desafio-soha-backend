@@ -22,7 +22,6 @@ O projeto possuí as seguintes técnologias:
 ```bash
 # Getting Started
 O projeto foi criado usando o Vite --template react-ts
-`https://github.com/Vinicius-moura-code/project-backend`
 
 # Run local
 `
